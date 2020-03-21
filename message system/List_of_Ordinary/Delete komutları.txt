@@ -1,0 +1,7 @@
+delete(0, "end")
+
+Sadece Fare Ýmlecinin Seçildiði Alaný Silmek
+delete("sel.first", "sel.last")
+
+Yanýp Sönen Ýmlecten Yazýnýn Sonuna Kadar olan kýsmý Silmek
+delete("insert", "end")

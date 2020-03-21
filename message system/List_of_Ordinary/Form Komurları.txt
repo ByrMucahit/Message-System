@@ -1,0 +1,6 @@
+Pack fonksiyonun alacaðý deðerler
+
+side - left-right-top-bottom
+fill - x- y
+expand- 0- 1
+anchor "n" yukarý "s" Aþaðý "e" Sað "w" Sol "ne" Yukarý sað "nw" Yukarý sol "se" Aþaðý sað "sw" Aþaðý sol "center" orta

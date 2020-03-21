@@ -1,0 +1,3 @@
+selectmode = SINGLE - de browse den farký bunda mauseye týklanmýþ olarak sürükleme yapamýyoruz. ve tek eleman seçebiliyoruz.
+selectmode = MULTIPLE - Bu komutta ise birden fazla eleman secebiliriz ve ayný zamanda seçtiðimizi iptal etmek için yine üzerine týklarýz.
+selectmode = EXTENDED - Bu komutta da birden fazla eleman seçebiliriz ancak bunda mausenin sol tuþuna basýlý tutarakta seçim yapabiliyoruz.
